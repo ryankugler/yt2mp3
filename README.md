@@ -19,4 +19,4 @@ This script allows you to download MP3 files from YouTube videos and organize th
 2. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install yt-dlp
