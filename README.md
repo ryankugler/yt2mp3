@@ -1,6 +1,6 @@
 # YouTube MP3 Downloader
 
-This script allows you to download MP3 files from YouTube videos and organize them into a specific folder.
+This script allows you to download MP3 files from YouTube videos and organize them into a specific folder to then be imported to a specific spotify playlist.
 
 ## Features
 
